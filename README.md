@@ -18,8 +18,7 @@ Não está totalmente pronto, e ja adianto pedindo desculpas pela formatação d
 **ESQUEMA ELÉTRICO:**  
 ![Esquema Elétrico do Projeto](https://i.imgur.com/dWub5xz.png)
 
-Gostaria de deixar os agradecimentos aos citados abaixo, eles contribuiram para o desenvolvimento do projeto e me apoiaram
-
+**Gostaria de deixar os agradecimentos aos citados abaixo, eles contribuiram para o desenvolvimento do projeto e me apoiaram**
 [sivar2311](https://github.com/sivar2311)  
 [kakopappa](https://github.com/kakopappa)  
 [gvinhais](https://github.com/vinhais)  
