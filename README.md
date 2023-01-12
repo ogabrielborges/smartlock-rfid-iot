@@ -15,11 +15,11 @@ Não está totalmente pronto, e ja adianto pedindo desculpas pela formatação d
 - [ArduinoJson](https://github.com/bblanchon/ArduinoJson) (no mínimo V6.12.0)
 
 
-**ESQUEMA ELÉTRICO:**
+**ESQUEMA ELÉTRICO:**  
 ![Esquema Elétrico do Projeto](https://i.imgur.com/dWub5xz.png)
 
 Gostaria de deixar os créditos aos citados abaixo, pois eles contribuiram muito para o desenvolvimento do projeto e me ensinaram bastante sobre C++:
 
-[sivar2311](https://github.com/sivar2311)
-[kakopappa](https://github.com/kakopappa)
-[gvinhais](https://github.com/vinhais)
+[sivar2311](https://github.com/sivar2311)  
+[kakopappa](https://github.com/kakopappa)  
+[gvinhais](https://github.com/vinhais)  
